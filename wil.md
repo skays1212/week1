@@ -103,5 +103,5 @@ path뒤에 query string의 시작은 '?'로 시작하며, '='를 기준으로 �
 
 ---
 
-![image](https://github.com/user-attachments/assets/b900718b-511d-46ff-8ddf-247abd5e7ffe)
+**![image](https://github.com/user-attachments/assets/b900718b-511d-46ff-8ddf-247abd5e7ffe)**
 
