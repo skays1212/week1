@@ -102,5 +102,5 @@ path뒤에 query string의 시작은 '?'로 시작하며, '='를 기준으로 �
 - 특정 친구의 할 일 조회 : GET /friend/{friend_id}/todo/list
 
 ---
-(https://github.com/skays1212/week1/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-04-09%20003608.png)
+![d](https://github.com/skays1212/week1/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-04-09%20003608.png)
 
